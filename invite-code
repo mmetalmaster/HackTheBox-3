@@ -1,0 +1,1 @@
+curl -X POST https://www.hackthebox.eu/api/invite/generate 2>/dev/null | python -c "import sys, json; print json.load(sys.stdin)['data']['code']" | base64 --decode
