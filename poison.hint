@@ -1,0 +1,6 @@
+priv esc
+ssh over vnc
+http://www.cl.cam.ac.uk/research/dtg/attarchive/vnc/sshvnc.html
+
+connect
+vncviewer localhost:1 -PasswordFile secret 
