@@ -1,5 +1,5 @@
-user enumerate + ssh bruteforce
-
+user 
+enumerate + ssh bruteforce
 
 privesc
 http://touhidshaikh.com/blog/?p=790
