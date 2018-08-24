@@ -1,0 +1,6 @@
+#user
+CVE-2017-5638 Exploit
+get user credential from mysql
+
+#root
+python module hijacking
